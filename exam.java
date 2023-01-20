@@ -18,9 +18,5 @@ public static void main(String[] args)
          System.out.println("The integer entered is odd.");   
    }
    public static boolean isEven(int number)
-   {
-      // check if number is even
-      int remainderByTwo = number % 2;
-      boolean isDivisbleByTwo = (remainderByTwo == 0);
-      return isDivisible
+   
 }
